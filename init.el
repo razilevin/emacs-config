@@ -22,3 +22,4 @@
 (require 'setup-node)
 (require 'setup-haskell)
 (require 'setup-magit)
+(require 'setup-go)
